@@ -17,9 +17,9 @@ A new model comes out? Use this evaluation framework to see if it's any good as 
 Here are the principles to help you find the best model:
 
 - 🔨 **It's a tool**: The questions are not meant to be interview questions, the LLM is meant to assist you during coding, it's not your next hire.
-- 🔋 **Batteries included** More than just coding: A good assistant can help you with coding-adjacent tasks as well: Regular Expressions, Shell globbing, linux commandline, Windows powershell, AWS and Azure, etc.
-- 👩🏽‍💻 **Human evaluated** No automated testing: Each prompt and output is to be evaluated by a software engineer with relevant experience by hand, adding nuanced commentary on how the model did, if it could have done different, if the output is correct, etc.
-- 📏 **Nuanced evaluation** Similarly, no single score: You want a great model? The only way you can really know if it's any good is by using it. This evaluation is meant to replicate a thorough "test run" with realistic questions.
+- 🔋 **Batteries included**: A good assistant can help you with coding-adjacent tasks as well: Regular Expressions, Shell globbing, linux commandline, Windows powershell, AWS and Azure, etc.
+- 👩🏽‍💻 **Human evaluated**: Each prompt and output is to be evaluated by a software engineer with relevant experience by hand, adding nuanced commentary on how the model did, if it could have done different, if the output is correct, etc.
+- 📏 **No numeric scores**: You want a great model? The only way you can really know if it's any good is by actually using it. Other leaderboards attach a single number to the overall performance of a model. This is nice for general ranking, but not when you want to decide what model is actually best for _you_.
 
 ## The results
 
