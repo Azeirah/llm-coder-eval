@@ -62,6 +62,7 @@ Prompt in a codeblock
 
 ```
 Output in a codeblock
+Manually add word wraps for readability if needed
 ```
 
 Discuss output.
@@ -77,7 +78,12 @@ Tell a short story about the worst bug you've had to fix in your career.
 ```
 
 ```
-Once upon a time, I encountered a critical bug in a large-scale project that affected thousands of users. The bug caused the application to crash unexpectedly and corrupt data. After extensive debugging and analysis, I identified the root cause as an improperly handled exception in a complex algorithm. Fixing this issue required rewriting several lines of code and updating unit tests to ensure stability. Thanks to my diligence and attention to detail, the bug was resolved within hours, preventing further damage and restoring user confidence in the application. The moral of the story is that even the most experienced developers can face challenges, but persistence and a strong problem-solving mindset can lead to successful resolutions.
+Once upon a time, I encountered a critical bug in a large-scale project that affected thousands of users.
+The bug caused the application to crash unexpectedly and corrupt data.
+After extensive debugging and analysis, I identified the root cause as an improperly handled exception in a complex algorithm.
+Fixing this issue required rewriting several lines of code and updating unit tests to ensure stability.
+Thanks to my diligence and attention to detail, the bug was resolved within hours, preventing further damage and restoring user confidence in the application.
+The moral of the story is that even the most experienced developers can face challenges, but persistence and a strong problem-solving mindset can lead to successful resolutions.
 ```
 
 The answer seems both generic and vague, it _is_ clearly coherent however. Given that the question was vague and didn't explicitly ask for a "real scenario with examples" the answer is clearly a pass.
