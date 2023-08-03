@@ -1,6 +1,6 @@
 # llm-coder-eval
 
-What local Large Language Model (LLM) do you choose as your coding assistant? This is difficult to easily decide; to pick a model you need to find the right balance between output quality and hardware requirements. Of course that juicy 70B finetune is the best, but that won't run on your 3060. At the same time, that Camelid-13B-V2 is a great roleplaying model, but is it any good at Go?
+What local Large Language Model (LLM) do you choose as your coding assistant? This is difficult to easily decide; to pick a model you need to find the right balance between output quality and hardware requirements. Of course that juicy 70B finetune is the best, but that won't run on your 3060. At the same time, that Camelid-13B-V2 is a great roleplaying model, but is it any good at Golang?
 
 This Repository intends to build a framework for evaluating models for exactly this. Day-to-day performance as a coding assistant for software developers.
 
