@@ -6,7 +6,7 @@ This Repository intends to build a framework for evaluating models for exactly t
 
 Here are our principles
 
-- 🔨 The questions are not meant to be interview questions, the LLM is meant to assist you during coding, it's not your next hire.
-- 🖩 More than just coding: A good assistant can help you with coding-adjacent tasks as well: Regular Expressions, Shell globbing, linux commandline, Windows powershell, AWS and Azure, etc.
-- 👩🏽‍💻 No automated testing: Each prompt and output is to be evaluated by a software engineer with relevant experience by hand, adding nuanced commentary on how the model did, if it could have done different, if the output is correct, etc.
-- 📏 Similarly, no single score: You want a great model? The only way you can really know if it's any good is by using it. This evaluation is meant to replicate a thorough "test run" with realistic questions.
+- 🔨 **It's a tool**: The questions are not meant to be interview questions, the LLM is meant to assist you during coding, it's not your next hire.
+- 🔋 **Batteries included** More than just coding: A good assistant can help you with coding-adjacent tasks as well: Regular Expressions, Shell globbing, linux commandline, Windows powershell, AWS and Azure, etc.
+- 👩🏽‍💻 **Human evaluated** No automated testing: Each prompt and output is to be evaluated by a software engineer with relevant experience by hand, adding nuanced commentary on how the model did, if it could have done different, if the output is correct, etc.
+- 📏 **Nuanced evaluation** Similarly, no single score: You want a great model? The only way you can really know if it's any good is by using it. This evaluation is meant to replicate a thorough "test run" with realistic questions.
