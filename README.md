@@ -4,7 +4,17 @@ What local Large Language Model (LLM) do you choose as your coding assistant? Th
 
 This Repository intends to build a framework for evaluating models for exactly this. Day-to-day performance as a coding assistant for software developers.
 
-Here are our principles
+## Why use this?
+
+The goals is to provide a clear signal whether any model is a good fit for being a coding assistant or not.
+
+This should be to go-to place to find the right model for your work and hardware.
+
+A new model comes out? Use this evaluation framework to see if it's any good as a coding assistant.
+
+## Evaluation principles
+
+Here are the principles to help you find the best model:
 
 - 🔨 **It's a tool**: The questions are not meant to be interview questions, the LLM is meant to assist you during coding, it's not your next hire.
 - 🔋 **Batteries included** More than just coding: A good assistant can help you with coding-adjacent tasks as well: Regular Expressions, Shell globbing, linux commandline, Windows powershell, AWS and Azure, etc.
