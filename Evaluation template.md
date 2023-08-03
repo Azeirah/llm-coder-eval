@@ -46,7 +46,7 @@ For each prompt, format as follows:
 
 #### Prompt title
 
-- [] A short description of the prompt's purpose
+- [ ] A short description of the prompt's purpose
 - [ ] The prompt itself in a codeblock
 - [ ] The output in a codeblock, use the relevant programming language syntax highlighting wherever relevant
 - [ ] A discussion on the output
