@@ -46,3 +46,7 @@ For now, I'm mostly looking for questions you needed an answer to in your daily 
 When we have more prompts I hope others will help out running and evaluating prompts for a model of their choosing.
 
 There's [an evaluation document template]() in this repository that's meant as a base/template for an evaluation of ONE model of a specific quantization. As more prompts get added, others can add the new prompts to the existing documents.
+
+## Related
+
+- [Awesome code LLM](https://github.com/huybery/Awesome-Code-LLM)
